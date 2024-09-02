@@ -6,7 +6,15 @@
     align-items: center;
     justify-content: center;
 }
-.apresentacaoimg{
+.txtApresenta{
+    height: 100%;
     width: 50%;
-
+    background-color: #0078c9;
+    margin-left: 10px;
+}
+.imgApresenta{
+    height: 100%;
+    width: 50%;
+    background-color: #ffffff;
+    margin-right: 10px;
 }
