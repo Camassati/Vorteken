@@ -1,0 +1,83 @@
+.apresentacao{
+    display: flex;
+    height: 80vh;
+    width: 100%;
+    background-color: #26292B;
+    align-items: center;
+    justify-content: center;
+}
+.txtApresenta{
+    height: 100%;
+    width: 50%;
+    background-color: #0078c9;
+    margin-left: 10px;
+}
+.imgApresenta{
+    height: 100%;
+    width: 50%;
+    background-color: #ffffff;
+    margin-right: 10px;
+}
+.contato{
+     margin-top: 10px;
+        display: flex;
+        height: 70vh;
+        width: 100%;
+        background-color: #1A1C22;
+        align-items: center;
+        justify-content: center;
+
+}
+.footer{
+    margin-top: 10px;
+        display: flex;
+        height: 15vh;
+        width: 100%;
+        background-color: #000000;
+        align-items: center;
+        justify-content: center;
+}
+.header{
+        display: flex;
+        position: fixed;
+        height: 10vh;
+        width: 100%;
+        background-color: #1A1C22;
+        align-items: center;
+        justify-content: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+@font-face {
+    font-family: 'neon';
+    src: url('/fonte/Neonrec-Regular.otf') format('opentype');
+
+}
+h2{
+    font-weight: 100;
+    font-size: 50px;
+    color: #55c024;
+}
+h1{
+    font-weight: 100;
+    font-size: 50px;
+    color: #55c024;
+    font-family: 'neon';
+
+}
+.sobre_todos{
+    margin: 0px,10px,0px,10px;
+
+}
+.sobre{
+
+        display: flex;
+        height: 80vh;
+        width: 100%;
+        background-color: #26292B;
+        align-items: center;
+        justify-content: center;
+}
